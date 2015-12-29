@@ -487,6 +487,7 @@
 				C15229C51C31BBF300716AA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C15229C61C31BBF300716AA3 /* Build configuration list for PBXNativeTarget "TemperatureTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				C15229C81C31BBF300716AA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C15229C91C31BBF300716AA3 /* Build configuration list for PBXNativeTarget "TemperatureUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +505,7 @@
 				C15229CB1C31BBF300716AA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
